@@ -1,0 +1,24 @@
+body {
+  display: flex;
+  flex-direction: column;
+}
+
+.top,
+.footer {
+  background-color: #1F2937;
+}
+
+.top {
+  display: flex;
+  flex: 1;
+}
+
+.content {
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+}
+
+.quote {
+  background-color: #E5E7EB;
+}
